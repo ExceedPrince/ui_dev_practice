@@ -8,13 +8,13 @@
 	background-image: url(img/pexels-photo-5668859.jpeg);
 	background-repeat: no-repeat;
 	background-size: cover;
-
 }
 
 #content {
 	background-image: linear-gradient(rgba(255, 255, 255, 0), rgba(0, 0, 0, 0.63), rgba(0, 0, 0, 0.897), black);
 	height: 90vh;
 	padding: 0% 5%;
+	max-width: fit-content;
 }
 
 h1 {
